@@ -37,7 +37,7 @@ Economic policy uncertainty and inflation significantly affect consumption patte
 Fixed-effects model identified as the most suitable approach for this dataset.
 ```
 
-🧠 Tools & Technologies
+### 🧠 Tools & Technologies
 ```
 Languages: Python (Pandas, StatsModels, Scikit-learn), STATA
 
@@ -46,6 +46,6 @@ Techniques: Regression Analysis, ARIMA, Random Forest, Gradient Boosting
 Visualization: Matplotlib, Seaborn
 ```
 
-📌 Conclusion
+### 📌 Conclusion
 
 The study highlights how geopolitical risk and economic uncertainty shape environmental outcomes, emphasizing the need for data-driven policies to promote sustainable development and energy resilience.
