@@ -7,44 +7,43 @@ Exploring the Nexus Between Economic Policy Uncertainty, Geopolitical Risk, and 
 This research investigates the intricate relationship between economic policy uncertainty, geopolitical risk, and CO₂ emissions, with a special focus on BRICS nations (Brazil, Russia, India, China, South Africa). Using a combination of econometric and machine learning models, the study uncovers how macroeconomic and environmental indicators jointly influence energy consumption trends and sustainability outcomes.
 
 ### 🎯 Objectives
-```
-Analyze the impact of economic policy uncertainty and geopolitical risk on CO₂ emissions.
 
-Examine the correlation between GDP, inflation, energy consumption, and environmental indicators.
+* Analyze the impact of economic policy uncertainty and geopolitical risk on CO₂ emissions.
 
-Provide actionable insights for policymakers towards sustainable energy management.
-```
+* Examine the correlation between GDP, inflation, energy consumption, and environmental indicators.
+
+* Provide actionable insights for policymakers towards sustainable energy management.
+
 
 ### 🧩 Methodology
-```
-Data Filtering & EDA: Pandas-based preprocessing and visualization.
 
-Regression Models: OLS, Fixed Effects, and Random Effects models for panel data analysis.
+* Data Filtering & EDA: Pandas-based preprocessing and visualization.
 
-Machine Learning Models: Random Forest and Gradient Boosting Regression for non-linear relationships.
+* Regression Models: OLS, Fixed Effects, and Random Effects models for panel data analysis.
 
-Time-Series Analysis: ARIMA model to capture temporal emission trends.
+* Machine Learning Models: Random Forest and Gradient Boosting Regression for non-linear relationships.
 
-Model Validation: Hausman Test for model selection and comparison.
-```
+* Time-Series Analysis: ARIMA model to capture temporal emission trends.
+
+* Model Validation: Hausman Test for model selection and comparison.
 
 ### 📊 Key Findings
-```
-Strong positive correlation between CO₂ emissions and energy consumption.
 
-Economic policy uncertainty and inflation significantly affect consumption patterns.
+* Strong positive correlation between CO₂ emissions and energy consumption.
 
-Fixed-effects model identified as the most suitable approach for this dataset.
-```
+* Economic policy uncertainty and inflation significantly affect consumption patterns.
+
+* Fixed-effects model identified as the most suitable approach for this dataset.
+
 
 ### 🧠 Tools & Technologies
-```
-Languages: Python (Pandas, StatsModels, Scikit-learn), STATA
 
-Techniques: Regression Analysis, ARIMA, Random Forest, Gradient Boosting
+* Languages: Python (Pandas, StatsModels, Scikit-learn), STATA
 
-Visualization: Matplotlib, Seaborn
-```
+* Techniques: Regression Analysis, ARIMA, Random Forest, Gradient Boosting
+
+* Visualization: Matplotlib, Seaborn
+
 
 ### 📌 Conclusion
 
